@@ -1,3 +1,6 @@
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 # hello! welcome to kahia777.github.io
 ---
 ![aquemini](https://i.discogs.com/-xr2ttBWtlE1m1iSh_hTO77oIw88ocglfNlKzGTP9gE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMzE2Mjk4MDE3/LmpwZWc.jpeg)
