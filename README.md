@@ -5,4 +5,5 @@
 ![4:44](https://upload.wikimedia.org/wikipedia/commons/a/ac/4-44_album_cover.png)
 ![college dropout](https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78)
 
-![topimpabutterfly](https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png)
+![topimpabutterfly](https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.pn]
+![alanadelrey](https://i.pinimg.com/564x/2d/17/9d/2d179dbbe419b728e1f36cbf5fa3815b.jpg)
