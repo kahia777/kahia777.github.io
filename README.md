@@ -1,12 +1,7 @@
-remote_theme: pages-themes/modernist@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 # hello! welcome to kahia777.github.io
 ---
-![aquemini](https://i.discogs.com/-xr2ttBWtlE1m1iSh_hTO77oIw88ocglfNlKzGTP9gE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMzE2Mjk4MDE3/LmpwZWc.jpeg)
----
-![4:44](https://upload.wikimedia.org/wikipedia/commons/a/ac/4-44_album_cover.png)
-![college dropout](https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78)
-
-![topimpabutterfly](https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.pn]
-![alanadelrey](https://i.pinimg.com/564x/2d/17/9d/2d179dbbe419b728e1f36cbf5fa3815b.jpg)
+                                                                        April 25
+     April 25, 2008 is the day I was born. My family was happy that another blessing would come into their lives. But, when I started attending school, I felt an enormous feeling of enviousness whenever I see my classmates celebrating their birthdays. Why? Duh, they CELEBRATE THEIR BIRTHDAYS IN SCHOOL. I was so frustrated that I would rant to my mom about why my birthday is in April. I remember myself crying, in rage, disappointed that it even led to requesting my mom to change my birthday to some date that would have the opportunity to celebrate the occasion in school. I have dropped hundreds of tears, consumed hours of my time, wasted my voice, because of this and throughout my ‘mental breakdown’, my mom would just laugh. 
+     
+                                                                   THE BEST SPAGHETTI EVER!! 
+     My dad makes the best spaghetti ever. Growing up, it is truly a tradition to cook spaghetti in our family whenever there is a special event. And my father would make it. Matter of fact, I have just come to the conclusion that throughout the time of tasting that al dente pasta, meaty and thick sauce, and tasty herbs— THAT EVERYTHING IS CONSISTENT! But, of course, I have tasted a lot of different kinds of spaghetti my whole lifetime, from birthdays, baptisms, to fiestas and my dad still has the best recipe AND I WOULD FIGHT FOR IT. My dad's spaghetti ingredients were never flimsy. Actually, it has a lot of ingredients and he is frankly picky with choosing the right brands and essentials. In conclusion, I love my dad’s spaghetti. 
