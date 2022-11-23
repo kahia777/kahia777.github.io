@@ -1,6 +1,9 @@
 # hello! welcome to kahia777.github.io
 ---
 
+FACTS ABOUT ME:
+          My name is Kahia Adona Dolanas, you may call me Kahia. I am from LG 9 Pro in Ateneo de Naga University. I like writing
+     and listening to music. I hope you would enjoy this little 'e-diary' of mine!
 
                                                              April 25
           April 25, 2008 is the day I was born. My family was happy that another blessing would come into their lives. But,
