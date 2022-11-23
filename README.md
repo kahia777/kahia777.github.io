@@ -2,8 +2,16 @@
 ---
 
 FACTS ABOUT ME:
+          
           My name is Kahia Adona Dolanas, you may call me Kahia. I am from LG 9 Pro in Ateneo de Naga University. I like writing
      and listening to music. I hope you would enjoy this little 'e-diary' of mine!
+     
+In this website, you would find:
+     
+     - small paragraphs about my odd experiences in life (basically, random topics)
+     - albums I would like for you to listen
+     
+     ---
 
                                                              April 25
           April 25, 2008 is the day I was born. My family was happy that another blessing would come into their lives. But,
