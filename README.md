@@ -3,7 +3,7 @@
 
 FACTS ABOUT ME:
           
-          My name is Kahia Adona Dolanas, you may call me Kahia. I am from LG 9 Pro in Ateneo de Naga University. I like writing
+          My name is Kahia Adona Dolanas, you may call me Kahia. I am from LG 9 Pro in Ateneo de Naga University JHS. I like writing
      and listening to music. I hope you would enjoy this little 'e-diary' of mine!
      
 In this website, you would find:
