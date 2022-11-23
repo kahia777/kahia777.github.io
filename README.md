@@ -20,10 +20,9 @@
      it has a lot of ingredients and he is frankly picky with choosing the right brands and essentials. In conclusion, I 
      love my dad’s spaghetti.  
      
+     SONGS I RECOMMEND:
+     <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5LuXsO34x6KVlL8OWsxRqk?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
      
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/79ONNoS4M9tfIA1mYLBYVX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
      
-     
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5CnpZV3q5BcESefcB3WJmz?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
    
