@@ -41,7 +41,7 @@ In this website, you would find:
 
 : easily one of the most influential album to ever exist
 
-fav songs: All Falls Down, Jesus Walks
+fav songs: All Falls Down, Jesus Walks, Through The Wire
      
  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5ll74bqtkcXlKE7wwkMq4g?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
  
@@ -71,7 +71,7 @@ fav songs: What More Can I say, Encore, Change Clothes, 99 Problems
 
 : This is one of the best albums this year and I love how Beyonce embodied this genre of the music. Listen to this if you want to dance.
 
-fav songs: LAHAT MAGANDA!!
+fav songs: LAHAT MAGANDA!! 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7yQtjAjhtNi76KRu05XWFS?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -79,6 +79,6 @@ fav song: Forget Her
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/79ONNoS4M9tfIA1mYLBYVX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-: This is the last album by Kendrick Lamar. K. Dot really gave his all with this work. This took years to make and I can say that Kendrick really and fully shared his experiences in life including toxic relationships, father and family issues, transgenderalism and all. Most open and personal album. 
+: This is Kendrick Lamar's last album. K. Dot really gave his all with this work. This took years to make and I can say that, Kendrick really and fully shared his experiences in life including toxic relationships, father and family issues, transgenderalism and all. Most open and personal album. 
 
 fav songs: Count Me Out, Savior, Mother I Sober
